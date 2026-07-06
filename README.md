@@ -1,2 +1,2 @@
 # Algorithm
-Algorithm Solving
+프로젝트는 망했어
