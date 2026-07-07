@@ -1,8 +1,6 @@
-import java.util.Scanner;
-
-public class Main {
-    public static void main(String[] args) {
-        long n = 118372;
+class Solution {
+    public long solution(long n) {
+        n = 118372;
         long ori = n;
         int count = 1;
         long sum = 0;
@@ -16,10 +14,6 @@ public class Main {
             n/=10;
         }
 
-        System.out.println(sum);
-
-        //return sum;
-
-        
+        return sum;
     }
 }
